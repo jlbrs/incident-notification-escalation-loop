@@ -3,7 +3,7 @@
 This application is a backend script that opens an API to run a series of phone calls on request.
 This is aimed at supervision systems, in order to notify a list of on-call peoples when some incident occurs.
 
-The project is described in a blog article: https://www.twilio.com/blog/incident-notification-and-escalation-loop-using-programmable-voice
+The project is described in a blog article: https://www.twilio.com/blog/incident-notification-escalation-loop-programmable-voice
 
 ## Deployment and Base URL
 
